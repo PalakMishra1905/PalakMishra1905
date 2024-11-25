@@ -6,7 +6,7 @@ I'm a passionate MERN Stack Developer with a knack for building dynamic, respons
 
 💻 Skills:
 
-Frontend: React.js, HTML, CSS, JavaScript, Redux
+Frontend: React.js, HTML, CSS, JavaScript, Bootstrap, Material UI
 
 Backend: Node.js, Express.js
 
