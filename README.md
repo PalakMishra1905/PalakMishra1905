@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Palak Mishra</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<h3 align="center">A passionate fullstack developer</h3>
 <img align="right" width=400 alt="Coding" src="https://i.pinimg.com/736x/86/ad/ee/86adee567af1a5aafb594a2ea1e02b7e.jpg"/>
 
 
