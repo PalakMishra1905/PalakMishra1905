@@ -45,7 +45,7 @@ Tools & Platforms: Git, GitHub, VS Code, Netlify
 
 ## 📄 View My Resume
 
-[![Resume](https://img.shields.io/badge/Resume-View%20Here-blue?style=for-the-badge&logo=github)](https://github.com/PalakMishra1905/PalakMishra1905/file:///C:/Users/Nishant%20mishra/Desktop/Palak's%20resume.pdf)
+[![Resume](https://img.shields.io/badge/Resume-View%20Here-blue?style=for-the-badge&logo=github)](https://github.com/PalakMishra1905/file:///C:/Users/Nishant%20mishra/Desktop/Palak's%20resume.pdf)
 
 
 
