@@ -43,5 +43,11 @@ Tools & Platforms: Git, GitHub, VS Code, Netlify
 
 📬 Connect With Me Email : mishrapalak104@gmail.com LinkedIn : www.linkedin.com/in/palak-mishra-74bb17326
 
+## 📄 View My Resume
+
+[![Resume](https://img.shields.io/badge/Resume-View%20Here-blue?style=for-the-badge&logo=github)](https://github.com/PalakMishra1905/PalakMishra1905/file:///C:/Users/Nishant%20mishra/Desktop/Palak's%20resume.pdf)
+
+
+
 Thank you for visiting my profile! 😊</p>
 
