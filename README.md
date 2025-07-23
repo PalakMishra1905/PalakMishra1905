@@ -33,7 +33,7 @@ Backend: Node.js, Express.js
 
 Database: MongoDB
 
-Tools & Platforms: Git, GitHub, VS Code, Netlify
+Tools & Platforms: Git, GitHub, VS Code, Netlify, Render
 
 📚 Currently Learning: Java (DSA)
 
