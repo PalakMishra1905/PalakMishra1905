@@ -45,7 +45,7 @@ Tools & Platforms: Git, GitHub, VS Code, Netlify, Render
 
 ## 📄 View My Resume
 
-[![Resume](https://img.shields.io/badge/Resume-View%20Here-blue?style=for-the-badge&logo=github)](https://drive.google.com/file/d/1OwSFONffCASASYauSZjPQywSUOP9UJYQ/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-View%20Here-blue?style=for-the-badge&logo=github)](https://drive.google.com/file/d/1PPI_jMxb52464l2CkhE5NzysopCEzBXv/view?usp=sharing)
 
 
 
