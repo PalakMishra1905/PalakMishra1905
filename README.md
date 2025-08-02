@@ -3,7 +3,7 @@
 <img align="right" width=400 alt="Coding" src="https://i.pinimg.com/736x/86/ad/ee/86adee567af1a5aafb594a2ea1e02b7e.jpg"/>
 
 
-- 🌱 I’m currently learning **React, java**
+- 🌱 I’m currently learning **React, java, Langchain**
 
 - 💬 Ask me about **React**
 
